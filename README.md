@@ -3,10 +3,10 @@ Se realizo una aplicacion  para controlar el ingreso de los empleados, por el ar
 
 Utilidades 
 
-1: Lenguaje java
-2: IDEN Netbeans
-4: SQL SERVER 
+# 1: Lenguaje java
+# 2: IDEN Netbeans
+" 4: SQL SERVER 
 
-Link Youtube :https://www.youtube.com/watch?v=kmQlOVe92ag
-Link Github : https://github.com/JuanEstebanGPX/Innova-Colombia
-Link Formato-IEE : 
+# Link Youtube :https://www.youtube.com/watch?v=kmQlOVe92ag
+# Link Github : https://github.com/JuanEstebanGPX/Innova-Colombia
+
