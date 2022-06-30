@@ -5,7 +5,7 @@ Utilidades
 
 # 1: Lenguaje java
 # 2: IDEN Netbeans
-# 4: SQL SERVER 
+# 3: SQL SERVER 
 
 # Link Youtube :https://www.youtube.com/watch?v=kmQlOVe92ag
 # Link Github : https://github.com/JuanEstebanGPX/Innova-Colombia
